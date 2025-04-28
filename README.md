@@ -1,1 +1,1 @@
-This is initiated via mcp
+updated readme from mcp via groq llama 70b
